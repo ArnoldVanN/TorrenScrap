@@ -1,0 +1,1 @@
+Couldn't get the xpaths for thepiratebay to work so the scraper pipeline doesnt work. the code to download torrents using libtorrent is in pipelines.py
